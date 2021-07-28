@@ -3,20 +3,20 @@ Proxy rotation for scrapers with BeautifulSoup library
 
 Download repo on your system:
 
-git clone https://github.com/alireza-f/BeautifulSoupProxyRotation.git
+> git clone https://github.com/alireza-f/BeautifulSoupProxyRotation.git
 
 install requirements:
 
-pip3 install requirements.txt
+>pip3 install requirements.txt
 
 or
 
-pip install requirements.txt
+>pip install requirements.txt
 
 run code:
 
-python proxyBot.py
+>python proxyBot.py
 
 or
 
-python3 proxyBot.py
+>python3 proxyBot.py
