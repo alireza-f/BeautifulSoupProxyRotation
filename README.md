@@ -1,4 +1,4 @@
-# BeautifulSoupProxyRotation
+# BeautifulSoup Proxy Rotation
 Proxy rotation for scrapers with BeautifulSoup library
 
 Download repo on your system:
